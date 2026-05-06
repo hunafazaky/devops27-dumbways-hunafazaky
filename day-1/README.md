@@ -69,3 +69,6 @@ Melakukan **VIrtualization** dengan menginstall Ubuntu menggunakan VirtualBox
 
 7. Menunggu Instalasi selesai dilakukan
 ![Instalasi berjalan](<Screenshot 2026-05-06 173218.png>)
+
+8. Masukkan username dan password, lalu cek jaringan dengan perintah "ping 8.8.8.8"
+![Cek PING jaringan](<Screenshot 2026-05-06 214833.png>)
