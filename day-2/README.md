@@ -14,8 +14,6 @@ Buat sebuah diagram sebuah jaringan komputer dengan 4 device dengan kondisi :
 
 ---
 
----
-
 ### **Q2 :**
 
 Jelaskan perbedaan antara SH (Shell) dan BASH (Bourne-Again Shell)
@@ -28,28 +26,48 @@ Di sisi lain, **Bash (Bourne-Again Shell)** bisa dibilang merupakan modifikasi d
 
 ---
 
----
-
 ### **Q3 :**
 
 Buat dokumentasi/kumpulan command linux yang kalian ketahui! (Command diluar materi akan diberi nilai ++)
 
 ### **A3 :**
 
-**echo**
+> **echo**
+- fungsi: menampilkan sesuatu
+- ( echo text ) akan menampilkan "text"
+- ( echo text > text.txt ) akan membuat file "text.txt" pada dir aktif dan diisi dengan "text"
 
-- ( echo text ) akan menampilkan ( text )
-- ( echo "text" > text.txt ) akan membuat file "text.txt" dengan isi "text"
-
-**pwd**
-
+> **pwd**
 - singkatan dari "Print Working Directory"
-- ( pwd ) akan menampilkan alamat direktori saat ini
+- fungsi: menampilkan alamat directory
+- ( pwd ) akan menampilkan alamat dir aktif
 
-**cd**
-
+> **cd**
 - singkatan dari "Change Directory"
-- ( cd folder ) akan maju ke dir "folder" jika tersedia
+- fungsi: pindah directory
+- ( cd folder ) akan maju ke dir "folder" **jika tersedia**
 - ( cd .. ) akan mundur ke dir sebelumnya
 - ( cd / ) akan pindah ke root dir
-- ( cd /home/user2 ) akan pindah ke "/home/user2"
+- ( cd /home/user ) akan pindah ke "/home/user2"
+
+> **ls**
+- singkatan dari "List Directories"
+- fungsi: menampilkan list dir dan file
+- ( ls ) akan menampilkan list dir dan file pada dir aktif
+- ( ls /home/user ) akan menampilkan list dir dan file pada "/home/user"
+
+> **touch**
+- fungsi: membuat file
+- ( touch file1 ) akan membuat file1 pada dir aktif
+- ( touch file1 file2 file3 ) akan membuat file1, file2 dan file3 pada dir aktif
+
+> **file**
+- fungsi: menampilkan deskripsi isi file
+- jika kita memiliki "text.txt" dengan isi "text", ( file text.txt ) akan menampilkan "text.txt: ASCII text"
+
+> **cat**
+- singkatan  dari "Concatenate"
+- fungsi: menampilkan isi teks suatu file
+- jika kita memiliki "text.txt" dengan isi "text", ( cat text.txt ) akan menampilkan "text"
+- jika kita memiliki "picture.jpg", ( cat picture.jpg ) akan menampilkan *gibberish* atau bahkan merusak tampilan terminal.
+
