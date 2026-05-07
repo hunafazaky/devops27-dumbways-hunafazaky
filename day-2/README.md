@@ -70,4 +70,27 @@ Buat dokumentasi/kumpulan command linux yang kalian ketahui! (Command diluar mat
 - fungsi: menampilkan isi teks suatu file
 - jika kita memiliki "text.txt" dengan isi "text", ( cat text.txt ) akan menampilkan "text"
 - jika kita memiliki "picture.jpg", ( cat picture.jpg ) akan menampilkan *gibberish* atau bahkan merusak tampilan terminal.
+- ( cat > text.txt ) akan membuatkan file text.txt dan masuk ke mode penulisan. Kita bisa menuliskan apa pun setelahnya, lalu menekan "CTRL + D" untuk menyimpan dan keluar.
 
+> **cp**
+- singkatan dari "Copy"
+- fungsi: menyalin dan menyimpan file
+- ( cp file1 file2 ) akan membuat menyalin file1 dengan nama file2
+- ( cp file1 folder ) akan membuat menyalin file1 ke dalam dir "folder"
+
+> **mv**
+- singkatan dari "Move"
+- fungsi: memindahkan atau mengubah nama file
+- ( mv file1 folder/ ) memindahkan file1 ke dalam dir "folder" **jika tersedia**
+- ( mv file1 file2) mengubah file1 menjadi file2
+
+> **mkdir**
+- singkatan dari "Make DIrectory"
+- fungsi: membuat dir baru
+- ( mkdir new ) akan membuat dir new
+- ( mkdir new1 new2 ) akan membuat dir new1 dan new2
+
+> **rm**
+- singkatan dari "Remove"
+- fungsi: menghapus file
+- ( rm file1 ) akan menghapus file1
