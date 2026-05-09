@@ -1,4 +1,4 @@
-# Day 2 - Basic Shell and Computer Network
+# Day 3 - Manage Server with Terminal
 
 ### **Q1 :**
 
