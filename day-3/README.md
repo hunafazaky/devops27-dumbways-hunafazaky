@@ -52,7 +52,7 @@ Buat step by step penggunaan text manipulation! (grep, sed, cat, echo)
 > **echo**
 - fungsi: menampilkan sesuatu
 - rumus: echo **<teks_bebas>**
-- contoh: ( echo text ) akan menampilkan "text"
+- ( echo text ) akan menampilkan "text"
 - ( echo text > text.txt ) akan membuat file "text.txt" pada dir aktif dan diisi dengan "text"
 
 ---
