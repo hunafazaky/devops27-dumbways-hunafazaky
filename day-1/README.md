@@ -1,7 +1,13 @@
 # Day 1 - Introduction To DevOps
 
-## Theory
+### **Q1 :**
+
+Secara konsep, jelaskan apa itu DevOps dengan bahasa kalian!
+
+### **A1 :**
+
 ### Apa itu DevOps?
+
 **DevOps** tersusun dari dua kata: *Development* dan *Operations*. *Development* merujuk pada bagaimana aplikasi dibangun, sedangkan *Operations* merujuk pada bagaimana aplikasi disajikan kepada pengguna. 
 
 **DevOps** adalah sebuah penghubung atau pengawas yang berada di seluruh siklus hidup sebuah aplikasi, mulai dari awal perencanaan, sampai pemeliharaan aplikasi berjalan.
@@ -38,9 +44,13 @@ Setelah **Monitor**, siklus akan kembali ke **Plan** dan tidak akan benar-benar 
 ### Apa itu Hypervisor?
 **Hypervisor** bisa dianalogikan sebagai sebuah "program" atau "pengatur" yang melakukan pembagian resource berdasarkan keinginan pengguna.
 
-## Practice
-### Praktik yang dilakukan
-Melakukan **VIrtualization** dengan menginstall Ubuntu menggunakan VirtualBox
+---
+
+### **Q2 :**
+
+Install Ubuntu Server 22.04.x LTS menggunakan Virtualbox/VMware/Virtualization Tool pilihan kalian dan buat step-by-step langkah instalasinya!
+
+### **A2 :**
 
 ### Alat yang digunakan
 - ISO Ubuntu LTS
