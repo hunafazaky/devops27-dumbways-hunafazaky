@@ -46,11 +46,13 @@ Setelah **Monitor**, siklus akan kembali ke **Plan** dan tidak akan benar-benar 
 
 ---
 
-### **Q2 :**
+### **Q2 & Q3 :**
 
 Install Ubuntu Server 22.04.x LTS menggunakan Virtualbox/VMware/Virtualization Tool pilihan kalian dan buat step-by-step langkah instalasinya!
 
-### **A2 :**
+Gunakan IP Address xxx.xxx.xxx.208 untuk server VM kalian!
+
+### **A2 & A3 :**
 
 ### Alat yang digunakan
 - ISO Ubuntu LTS
@@ -80,5 +82,12 @@ Install Ubuntu Server 22.04.x LTS menggunakan Virtualbox/VMware/Virtualization T
 7. Menunggu Instalasi selesai dilakukan
 ![Instalasi berjalan](<Screenshot 2026-05-06 173218.png>)
 
-8. Masukkan username dan password, lalu cek jaringan dengan perintah "ping 8.8.8.8"
+---
+
+### **Q4 :**
+
+Pastikan Ubuntu Server kalian ada jaringan dengan test menggunakan command ping 8.8.8.8 / ping google.com
+
+### **A4 :**
+
 ![Cek PING jaringan](<Screenshot 2026-05-06 214833.png>)
