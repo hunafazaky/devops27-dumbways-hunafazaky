@@ -59,8 +59,12 @@ Untuk mencari perubahan teks pada file tertentu, ada beberapa pendekatan yang da
 
   2. ```git log <path_file>```
 
-  perintah ini dapat memperlihatkan seluruh perubahan yang pernah dilakukan file tertentu, sesuai yang kita tuju.
+  perintah ini dapat memperlihatkan seluruh perubahan yang pernah dilakukan file yang dituju.
+
+  ![Halaman log file tertentu](<Screenshot 2026-05-11 203700.png>)
 
   3. ```git log -S "teks_yang_dicari" -- <path_file>```
 
-  perintah ini dapat memperlihatkan perubahan spesifik yang diinginkan, pada file yang kita tuju. 
+  perintah ini dapat memperlihatkan perubahan spesifik berdasarkan kata kunci, pada file yang dituju. 
+
+  ![Halalam log file tertentu dengan kata kunci tertentu](<Screenshot 2026-05-11 203852.png>)
