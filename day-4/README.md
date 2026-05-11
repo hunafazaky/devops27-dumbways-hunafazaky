@@ -55,7 +55,7 @@ Untuk mencari perubahan teks pada file tertentu, ada beberapa pendekatan yang da
 
   perintah ini dapat memperlihatkan seluruh perubahan yang pernah dilakukan pada seluruh file di dalam proyek.
 
-  
+  ![Halaman log](<Screenshot 2026-05-11 203319.png>)
 
   2. ```git log <path_file>```
 
