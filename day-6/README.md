@@ -2,7 +2,7 @@
 
 ### **Q1 :**
 
-Gambarkan sturktur web server menggunakan reverse proxy dan jelaskan cara kerjanya!
+Gambarkan struktur web server menggunakan reverse proxy dan jelaskan cara kerjanya!
 
 ### **A1 :**
 
